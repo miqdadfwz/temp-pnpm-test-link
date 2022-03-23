@@ -1,0 +1,8 @@
+{
+  "name": "pkg-1",
+  "version": "0.0.1",
+  "dependencies": {
+    "is-odd": "^3.0.1",
+    "@lite-v3/polyfills": "^0.0.9"
+  }
+}

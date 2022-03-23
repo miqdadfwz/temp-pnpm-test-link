@@ -1,0 +1,11 @@
+{
+  "name": "pnpm-test",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "eslint": "8.11.0",
+    "jest": "^27.0.0"
+  }
+}
